@@ -1,6 +1,3 @@
-# AWS-Inspector
- A Bash script for monitoring AWS resources like EC2 instances, RDS, S3 buckets, etc. It collects metrics, sends notifications, and logs events for auditing. Easy configuration and automated log rotation included.
-
 # AWS Monitoring Script
 
 This Bash script is designed for monitoring various AWS resources such as EC2 instances, RDS instances, S3 buckets, Elastic Beanstalk applications, CloudFront distributions, VPCs, IAM entities, and AWS Shield protection status. It collects metrics and checks the status of these resources, sending notifications via SNS in case of any issues.
