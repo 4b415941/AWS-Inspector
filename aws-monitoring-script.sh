@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author: Kadircan Kaya
+# LinkedIn: [Kadircan Kaya](https://www.linkedin.com/in/kadircan-kaya/)
+
 # AWS CLI configuration
 AWS_PROFILE="${AWS_PROFILE:-default}"
 AWS_REGION="${AWS_REGION:-us-west-2}"
